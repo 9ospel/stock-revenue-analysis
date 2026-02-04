@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Tesla vs GameStop — Stock & Revenue Analysis
 =======
 📌 ## Project Overview
